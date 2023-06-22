@@ -1,13 +1,16 @@
 # ASP.Net-Mvc-5-Online-Business-Automation
-This project was developed with Murat Yücedağ in ASP.Net Mvc 5 camp.
+This project was developed with ASP.Net Core 5.0.
 Bu projede, bir mağazanın blog, admin ve yazar olmak üzere 3 temel panelinden oluşan bir yapı geliştirdim. 
 Özellikle admin panelinin dashboard kısmında, güçlü bir arayüz tasarımıyla birlikte CRUD işlemlerinin ötesine geçecek özellikler ekledim.
 Bu projede Entity Framework, n katmanlı mimari, Linq sorguları, Trigger ve Procedure gibi SQL yapılarını kullanarak somut bir proje ortaya çıkardım.
 
+Bu proje, bir mağazanın vitrin, admin ve kullanıcı olmak üzere 3 temel panelinden oluşuyor. Özellikle admin panelinin dashboard kısmı ile hem tasarımı güçlü bir arayüz hem de CRUD işlemlerinin ötesinde Entity Framework, Linq sorgular üzerinden Trigger, Procedure gibi SQL yapıları ile somut bir proje geliştirdik.
+
 Projeyi bitirdiğiniz zaman aşağıdaki başlıkları öğrenmiş olacaksınız:
 
 * Layout Kontrolü: Web sayfalarının tasarımının genel yapısını kontrol etme ve düzenleme becerisi.
-* Controller Yapısı: MVC (Model-View-Controller) mimarisine uygun olarak, kullanıcı etkileşimlerini yöneten ve ilgili iş mantığını uygulayan bileşenlerin yapısı ve kullanımı.
+* Controller Yapısı: MVC (Model-View-Controller) mimarisine uygun olarak, kullanıcı etkileşimlerini yöneten ve ilgili iş mantığını uygulayan
+  bileşenlerin yapısı ve kullanımı.
 * Partial View: Bir web sayfasının bölümlerini ayrı ayrı düzenlemek için kullanılan ve daha sonra ana sayfaya dahil edilen görünümler.
 * Code First: Entity Framework kullanarak veritabanı modelini kodlarınızdan oluşturma yöntemi.
 * Entity Framework: Veritabanı işlemlerini yönetmek için Entity Framework kullanımı.
@@ -26,5 +29,5 @@ Projeyi bitirdiğiniz zaman aşağıdaki başlıkları öğrenmiş olacaksınız
 * Dashboard yapısı: Admin panelindeki gösterge paneli yapısını oluşturma becerisi.
 * Chart: Grafikler oluşturma ve veri görselleştirme yeteneği.
 * Widget Cards kullanımları: Kullanıcı arayüzünde bilgi kartları oluşturma ve kullanma yeteneği.
-* 
+* ----------------------------------------------------------------------------------------------------------
 Bu projeyi bitirerek, bu becerilere sahip olacaksınız.
